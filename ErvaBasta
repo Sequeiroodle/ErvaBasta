@@ -1,1 +1,17 @@
-https://ErvaBasta.git
+https://ErvaBasta.com
+<!DOCTYPE html>
+<html>
+<head>
+  <title>ErvaBasta - Limpeza Florestal</title>
+</head>
+<body>
+  <h1>ErvaBasta - Limpeza Florestal</h1>
+  <p>A ErvaBasta oferece serviços de limpeza profissional para áreas florestais. Estamos comprometidos em fornecer serviços de qualidade para a preservação, restauração e manutenção de florestas e habitats naturais.</p>
+  <h2>Serviços</h2>
+  <ul>
+    <li>Limpeza de terraplanagem</li>
+    <li>Limpeza de mato alto</li>
+    <li>Remoção de resíduos</li>
+    <li>Limpeza de áreas degradadas</li>
+    <li>Restauração de áreas degradadas</li>
+  </ul
